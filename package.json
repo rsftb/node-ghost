@@ -1,0 +1,23 @@
+{
+  "name": "minihost",
+  "version": "1.0.1",
+  "main": "minihost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "command-line-args": "^6.0.0",
+    "command-line-usage": "^7.0.3",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.0"
+  },
+  "devDependencies": {
+    "@types/command-line-args": "^5.2.3",
+    "@types/command-line-usage": "^5.0.4",
+    "@types/express": "^5.0.0",
+    "jest": "^29.7.0"
+  }
+}
